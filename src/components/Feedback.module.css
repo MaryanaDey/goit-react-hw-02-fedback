@@ -1,0 +1,53 @@
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+.containerHeading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+ul {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+.good {
+  color: rgb(0, 182, 61);
+}
+.neutral {
+  color: rgb(87, 87, 87);
+}
+.bad {
+  color: rgb(207, 0, 0);
+}
+.total {
+  color: rgb(0, 74, 212);
+}
+.positivePercentage {
+  color: rgb(87, 87, 87);
+}
+
+.btn {
+  color: #fff;
+  background-color: #b2b2b2;
+  border-radius: 5px;
+
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.btn:hover {
+  background-color: rgb(0, 182, 61);
+}
+.btn:focus {
+  background-color: rgb(0, 182, 61);
+}
