@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-02-fedback/static/css/main.fd7c6298.css",
+    "main.js": "/goit-react-hw-02-fedback/static/js/main.d56052fb.js",
+    "index.html": "/goit-react-hw-02-fedback/index.html",
+    "main.fd7c6298.css.map": "/goit-react-hw-02-fedback/static/css/main.fd7c6298.css.map",
+    "main.d56052fb.js.map": "/goit-react-hw-02-fedback/static/js/main.d56052fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd7c6298.css",
+    "static/js/main.d56052fb.js"
+  ]
+}
