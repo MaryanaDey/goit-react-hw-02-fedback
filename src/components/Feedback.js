@@ -16,8 +16,7 @@ export default class Feedback extends React.Component {
     bad: 0,
   };
 
-  handleCLick = (feedbackId) => {
-    const { name } = feedbackId.currentTarget;
+  handleCLick = (name) => {
     this.setState((prevState) => ({
         [name]: prevState[name] + 1,
       }));
