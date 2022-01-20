@@ -13,7 +13,7 @@ export default function Controls({ options, onLeaveFeedback }) {
           name={option}
           type="button"
           onClick= {e =>
-             {onLeaveFeedback(e.currentTarget.name)}}
+             {onLeaveFeedback(option)}}
           className={s.btn}
         >
           {option}
